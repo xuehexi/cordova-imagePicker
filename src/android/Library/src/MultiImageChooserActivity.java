@@ -174,7 +174,7 @@ public class MultiImageChooserActivity extends Activity implements OnItemClickLi
         updateAcceptButton();
         progress = new ProgressDialog(this);
         progress.setTitle("处理图片中");
-        progress.setMessage("请稍后");
+        progress.setMessage("请稍候");
     }
     
     @Override
